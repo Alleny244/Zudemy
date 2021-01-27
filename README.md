@@ -30,4 +30,4 @@ $ npm start
 
 
 
-Your browser will open....Now edit `index.html` and/or `css/main.css` and/or `js/main.js` file inside `app` directory...:heart: :heart: :heart:
+Your browser will open....Now edit `index.html` and/or `styles.css` and/or `scripts.js` file inside `Zudemy` directory...:heart: :heart: :heart:
