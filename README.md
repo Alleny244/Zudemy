@@ -1,6 +1,6 @@
 # Zudemy
 ### E-Learning Mobile Responsive Website Model
-##### Front End Design
+### Built for a web design competition
 
 ## Installation/Usage:
 
